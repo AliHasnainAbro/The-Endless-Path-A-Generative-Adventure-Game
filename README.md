@@ -94,8 +94,8 @@ This raises real questions: if the same naming bias showed up in an AI system ev
  
 | | |
 |---|---|
-| 🎥 **YouTube Demo** | [Watch here]([https://www.youtube.com/your-link-here](https://youtu.be/CooKhvH4nCM)) |
-| 🔗 **Project Link** | [Run on Code in Place IDE]([https://codeinplace.stanford.edu/your-project-link-here](https://codeinplace.stanford.edu/cip6/share/yM8P3xwEAwmsRmH9oHrV)) |
+| 🎥 **YouTube Demo** | [Watch here]([[https://youtu.be/CooKhvH4nCM]]) |
+| 🔗 **Project Link** | [Run on Code in Place IDE]([https://codeinplace.stanford.edu/cip6/share/yM8P3xwEAwmsRmH9oHrV]) |
  
 ---
 
